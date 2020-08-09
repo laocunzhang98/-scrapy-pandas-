@@ -26,7 +26,7 @@ scrapy crawl YGXZ --nolog
 
 
 
-###清洗数据已经放入github仓库中
+### 清洗数据已经放入github仓库中
 
 ### 防止对网站服务造成影响 只进行部分数据爬取
 
